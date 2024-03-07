@@ -1,2 +1,2 @@
-# 2024_ETEC_PHP_Exercise
+# Exercise in PHP
 Basic exercise done in PHP for learning
